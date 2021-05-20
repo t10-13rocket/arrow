@@ -15,7 +15,7 @@
 # specific language governing permissions and limitations
 # under the License.
 
-FROM ubuntu:focal
+FROM ubuntu:groovy-20210416
 
 RUN \
   echo "debconf debconf/frontend select Noninteractive" | \
