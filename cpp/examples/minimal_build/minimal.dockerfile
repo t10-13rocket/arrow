@@ -15,7 +15,7 @@
 # specific language governing permissions and limitations
 # under the License.
 
-FROM ubuntu:focal
+FROM ubuntu:groovy-20210614
 
 ENV DEBIAN_FRONTEND=noninteractive
 
